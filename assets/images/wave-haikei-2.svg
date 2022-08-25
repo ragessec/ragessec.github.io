@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-ydpi="160.479"
+   inkscape:export-xdpi="160.479"
+   inkscape:export-filename="/home/rage/bitmap.png"
+   sodipodi:docname="wave-haikei (2).svg"
+   version="1.1"
+   height="600"
+   width="900"
+   viewBox="0 0 900 600"
+   id="visual"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs872">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3776">
+      <stop
+         style="stop-color:#8ec5fc;stop-opacity:1"
+         offset="0"
+         id="stop3772" />
+      <stop
+         style="stop-color:#e0c3fc;stop-opacity:1"
+         offset="1"
+         id="stop3774" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3778"
+       x1="0"
+       y1="187.21374"
+       x2="900"
+       y2="187.21374"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview870"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.42388889"
+     inkscape:cx="659.3709"
+     inkscape:cy="330.27523"
+     inkscape:window-width="1368"
+     inkscape:window-height="741"
+     inkscape:window-x="23"
+     inkscape:window-y="51"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="visual" />
+  <rect
+     x="0"
+     y="0"
+     width="900"
+     height="600"
+     fill="#2E3440"
+     id="rect865" />
+  <path
+     d="m 0,363.0414 30,2.15761 c 30,2.25142 90,6.56664 150,8.44283 60,1.87618 120,1.31332 180,-12.19519 60,-13.41471 120,-39.68127 180,-67.54259 60,-27.76751 120,-57.22358 180,-62.00785 60,-4.87807 120,14.82185 150,24.67181 l 30,9.84996 V 0 H 870 C 840,0 780,0 720,0 660,0 600,0 540,0 480,0 420,0 360,0 300,0 240,0 180,0 120,0 60,0 30,0 H 0 Z"
+     fill="#6600FF"
+     stroke-linecap="round"
+     stroke-linejoin="miter"
+     id="path867"
+     style="fill:url(#linearGradient3778);fill-opacity:1;stroke-width:0.968551;fill-rule:nonzero" />
+</svg>
